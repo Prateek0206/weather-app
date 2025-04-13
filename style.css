@@ -105,6 +105,7 @@ body {
 @media (width<500px){
   .weather-stats{
     background-color: transparent;
+    box-shadow:none;
   }
 }
 .current-weather-icon {
