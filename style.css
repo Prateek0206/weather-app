@@ -102,6 +102,11 @@ body {
   padding: 2rem;
 }
 
+@media (width<500px){
+  .weather-stats{
+    background-color: transparent;
+  }
+}
 .current-weather-icon {
   height: 10rem;
   fill: white;
