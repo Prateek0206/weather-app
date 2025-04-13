@@ -102,7 +102,7 @@ body {
   padding: 2rem;
 }
 
-@media (width<500px){
+@media (width<600px){
   .weather-stats{
     background-color: transparent;
     box-shadow:none;
